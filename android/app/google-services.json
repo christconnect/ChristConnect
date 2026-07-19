@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000267864190",
+    "project_id": "christ-connect-f96e9",
+    "storage_bucket": "christ-connect-f96e9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000267864190:android:95aa933484112a06a2e02f",
+        "android_client_info": {
+          "package_name": "com.christconnect.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQI51Etw89pXqcaUfLUEktVX931_4xW7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

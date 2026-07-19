@@ -184,7 +184,7 @@ export const CommunityScreen: React.FC = () => {
         <TextInput
           value={newPostText}
           onChangeText={setNewPostText}
-          placeholder="Share your thoughts, stories, or tips with the matrimonial community..."
+          placeholder="Share your thoughts, stories, or tips with the Christ Connect community..."
           placeholderTextColor={Colors.textLight}
           multiline
           maxLength={280}

@@ -1,4 +1,4 @@
-package com.matrimonial.app
+package com.christconnect.app
 
 import android.app.Application
 import com.facebook.react.PackageList

@@ -88,7 +88,7 @@ export const SettingsScreen: React.FC<{ navigation: any }> = ({ navigation }) =>
           <Text style={styles.logoutText}>Logout</Text>
         </TouchableOpacity>
         
-        <Text style={styles.versionText}>Matrimonial Community App v1.0.0 (CLI)</Text>
+        <Text style={styles.versionText}>Christ Connect v1.0.0 (CLI)</Text>
       </ScrollView>
     </SafeAreaView>
   );

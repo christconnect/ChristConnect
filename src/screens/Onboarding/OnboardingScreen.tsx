@@ -163,7 +163,7 @@ export const OnboardingScreen: React.FC = () => {
       <View style={styles.header}>
         <View style={styles.logoRow}>
           <Icon name="heart" size={22} color={Colors.primary} />
-          <Text style={styles.logoText}>Community Matrimonial</Text>
+          <Text style={styles.logoText}>Christ Connect</Text>
         </View>
         {activeIndex < slides.length - 1 && (
           <TouchableOpacity onPress={handleSkip} style={styles.skipBtn}>
